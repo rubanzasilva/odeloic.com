@@ -39,7 +39,7 @@ const Home: NextPage = () => {
           <li><a href="https://www.linkedin.com/in/odeloic/">LinkedIn</a></li>
           <li><a href="https://github.com/odeloic">Github</a></li>
           <li><a href="https://twitter.com/odeloic">Twitter</a></li>
-          <li><a href="odeloic@gmail.com">Send me an email</a></li>
+          <li><a href="mailto:odeloic@gmail.com">Send me an email</a></li>
         </ul>
         <button className={styles.button}>
           <a href="https://www.dropbox.com/s/5yiy5aso6pi0hce/resume-ISHIMWE-MANZI-ODE-LOIC.pdf?dl=1">My full resume</a>
